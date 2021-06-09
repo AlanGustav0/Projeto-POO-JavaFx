@@ -1,1 +1,1 @@
-# Projeto_JafaX_Vagas
+# Projeto_JavaFX_Vagas
